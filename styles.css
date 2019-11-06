@@ -1,0 +1,16 @@
+#container {
+ display: flex;
+ flex-direction: column;
+ width: 150px;
+}
+
+#take-screenshot-btn {
+    width: 100%;
+    background-color: #ff0000;
+    color: #FFFFFF;
+    border: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+}
